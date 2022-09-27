@@ -32,7 +32,7 @@ body{
     background-color: #c3c1c1;
 }
 
-.btn {
+.boton {
     padding: 2px 10px 2px 10px;
     display: none;
     margin-right: 30px;
@@ -74,4 +74,9 @@ p{
 
 #toDoItem {
     font-size: 21px;
+}
+
+.eliminador{
+    float:right;
+    margin-right: 20px;
 }
